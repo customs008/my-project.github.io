@@ -1,0 +1,41 @@
+
+
+html,body {
+    font-family:'Times New Roman', Times, serif;
+    color: blue;
+    font-size: 25px;
+    background-color: 
+    rgba(140, 137, 145, 0.137);
+    padding-top: 0;
+    padding-left: 20px;
+    padding-right: 5 px;
+    margin: 0;
+    border: 10px;
+}
+
+h1{text-align: center;
+    list-style-position: initial;
+}
+
+h2{text-align: center;}
+#вверх{
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+    overflow: hidden;
+ 
+}
+.myclass{
+    color: brown;
+    font-size: 500 px;
+}
+h1{
+    font-size: 50px;
+    font-weight: bold;
+    color: rgba(1, 3, 8, 0.966);}
+img{
+        width: 500px;
+        height: 400px;
+    
+}
+
